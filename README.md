@@ -1,6 +1,6 @@
 # Custom-RAG-Chatbot-For-Upwork-Project
 
-# 📄 Local RAG Chatbot: Privacy-First Knowledge Assistant
+# 📄 Local RAG Chatbot: Low Cost, Fast Knowledge Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-v1.x-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
